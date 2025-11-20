@@ -3,11 +3,11 @@ The purpose of this document is to provide Gemini CLI with the necessary context
 high-quality, robust, and well-documented code.
 
 #### 
-- Project Name: Hive Investor 
-- Author: Christian Serna 
+- Project Name:  
+- Author: 
 - Git Repo: 
 
-Project level GEMINI.md file location: /Users/cwserna/code/gemini-demo/.gemini/GEMINI.md
+Project level GEMINI.md file location: <<some path>>/gemini-demo/.gemini/GEMINI.md
 
 ####
 
@@ -76,6 +76,5 @@ Every step is mandatory.
 
 
 ###Reserve the bottom of the file for project level memory items
-- when building mermaid charts in markdown files. avoid special characters in the strings.
-- Do not perform git actions unless specifically prompted.
+
 
