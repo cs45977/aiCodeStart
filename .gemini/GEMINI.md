@@ -83,7 +83,7 @@ Every step is mandatory.
 - Local development should utilize virtual machines on VirtualBox
 - My local development host is a macbook
 
-###Reserve the bottom of the file for project level memory items
+### Reserve the bottom of the file for project level memory items
 - Do not perform git actions unless specifically prompted.
 - When I say "Context" Provide me the top 10 context rules for this project 
 
