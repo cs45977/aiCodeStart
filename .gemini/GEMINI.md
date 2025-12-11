@@ -3,11 +3,9 @@ The purpose of this document is to provide Gemini CLI with the necessary context
 high-quality, robust, and well-documented code.
 
 #### 
-- Project Name:  
-- Author: 
-- Git Repo: 
-
-Project level GEMINI.md file location: <<some path>>/gemini-demo/.gemini/GEMINI.md
+- Project Name:
+- Author:
+- Git Repo:
 
 ####
 
@@ -79,8 +77,9 @@ Every step is mandatory.
 #### Prefered tech stack 
 - My preferred technicle stack is python FastAPI with a VUE.js frontend and tailwinds.css
 #### Prefered development environments
+- My prefered IDE is Antigravity
 - We will deploy our application to Google Cloud Platform
-- Local development should utilize virtual machines on VirtualBox
+- Local development should utilize virtual machines on VirtualBox with vagrant
 - My local development host is a macbook
 
 ### Reserve the bottom of the file for project level memory items
