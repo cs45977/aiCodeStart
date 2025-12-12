@@ -1,0 +1,11 @@
+# use this file to instruct Gemini which files to ignore
+
+# Ignore the huge dependency directory
+node_modules/
+
+# Add other irrelevant directories for context efficiency
+.idea
+dist/
+build/
+.next/
+coverage/
